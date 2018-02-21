@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-                ***              Bem Vindos           ***
+                ***              Bem Vindos!!          ***
 
 
 # Quem sou eu 
