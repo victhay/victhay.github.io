@@ -13,13 +13,16 @@ layout: default
   Sou uma pessoa bastante extrovertida , alegre, gosto de fazer bastante amizades, sempre estou disposta á  ajudar o próximo.
   Sou geminiana e muito chorona. Tenho um amor chamada Rayka Gabriely, que foi morar a 2 anos no reinos dos céus. Torço pelo São Paulo e  e em relação ao meu estilo musical curto de tudo um pouco. 
  
- # Rayka Gabriely
+# Rayka Gabriely 
 
 [![](rayka.png)]() 
           
-Essa é a minha cachorrinha Rayka Gabriely, que foi morar com Deus a 2 anos. E ao seu lado Hanna Gabriela.
+Essa que está no porta retrato é Rayka Gabriely, minha cachorrinha que faleceus a 2 anos,
+ao seu lado é Hanna Gabriela, minha cachorra atual que tem 2 anos.
+Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior companheira
 
-# Redes Sociais: 
+
+# Redes Sociais:  
 [![](inst.png)](https://www.instagram.com/thaynaluana2/)[![](face.png)](https://www.facebook.com/thayna.luana.3)
 
 # Portfólio
