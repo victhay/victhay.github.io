@@ -12,9 +12,12 @@ layout: default
   Meu nome é Thayna Luana, estou cursando Programação de jogos digitais, no IFRN - Ceára-Mirim, moro em Natal-RN , tenho 17 anos.
   Sou uma pessoa bastante extrovertida , alegre, gosto de fazer bastante amizades, sempre estou disposta á  ajudar o próximo.
   Sou geminiana e muito chorona. Tenho um amor chamada Rayka Gabriely, que foi morar a 2 anos no reinos dos céus. Torço pelo São Paulo e  e em relação ao meu estilo musical curto de tudo um pouco. 
-  # Rayka Gabriely
+ 
+ # Rayka Gabriely
+
 [![](rayka.png)]() 
-            Essa é a minha cachorrinha Rayka Gabriely, que foi morar com Deus a 2 anos. E ao seu lado Hanna Gabriela.
+          
+          Essa é a minha cachorrinha Rayka Gabriely, que foi morar com Deus a 2 anos. E ao seu lado Hanna Gabriela.
 
 # Redes Sociais: 
 [![](inst.png)](https://www.instagram.com/thaynaluana2/)[![](face.png)](https://www.facebook.com/thayna.luana.3)
