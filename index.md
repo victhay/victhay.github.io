@@ -20,7 +20,10 @@ layout: default
 [![](inst.png)](https://www.instagram.com/thaynaluana2/)[![](face.png)](https://www.facebook.com/thayna.luana.3)
 
 # Portfólio
-  Aqui, Bruna a senhora tem que colocar imagens tiradas dos seus jogos... a senhora joga eles e tira um print da tela
+   # 1° Jogo 
+ [![](1.png)]() 
+    
+   [![](2.jpeg)]()  
 
 ## Games
   Aqui a senhora vai colocar os jogos que a senhora ja fez e que os prints tirados acima mostram...
