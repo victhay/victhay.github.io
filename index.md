@@ -7,7 +7,7 @@ layout: default
 # Quem sou eu 
 
 
-[![](thay.jpg)]() 
+                                     [![](thay.jpg)]() 
 
   Meu nome é Thayna Luana, estou cursando Programação de jogos digitais, no IFRN - Ceára-Mirim, moro em Natal-RN , tenho 17 anos.
   Sou uma pessoa bastante extrovertida , alegre, gosto de fazer bastante amizades, sempre estou disposta á  ajudar o próximo.
