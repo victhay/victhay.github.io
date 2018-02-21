@@ -47,7 +47,6 @@ layout: default
 ## Projetos
 
 * Proj Tower Defense
-* Proj TPM
 * Proj jogos
 
 * * *
