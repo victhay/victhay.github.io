@@ -25,8 +25,10 @@ layout: default
 # Portfólio
    # 1° Jogo 
  [![](1.png)]() 
-    
-   [![](2.jpeg)]()  
+   
+   # 3° Jogo
+   
+   [![](2.jpg)]()  
 
 ## Games
   Aqui a senhora vai colocar os jogos que a senhora ja fez e que os prints tirados acima mostram...
