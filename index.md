@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-                               ***                 Bem Vindos!!                ***
+                               *** Bem Vindos!! ***
 
 
 # Quem sou eu 
@@ -48,6 +48,11 @@ layout: default
 
 * Proj Tower Defense
 * Proj jogos
+
+# Cordenador da Disciplina: 
+
+[![](motores.png)]() 
+
 
 * * *
 
