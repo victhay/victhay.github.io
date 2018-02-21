@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/victhay/victhay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Criando **minha**, _página_, ~~principal~~.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[![](thay.png)]() 
+# Quem sou eu 
+  Meu nome é Thayna Luana, estou cursando Programação de jogos digitais, no IFRN - Ceára-Mirim, moro em Natal-RN , tenho 17 anos.
+  Sou uma pessoa bastante extrovertida , alegre, gosto de fazer bastante amizades, sempre estou disposta á  ajudar o próximo.
+  Sou geminiana e muito chorona. Tenho um amor chamada Rayka Gabriely, que foi morar a 2 anos no reinos dos céus. Torço pelo São Paulo e  e em relação ao meu estilo musical curto de tudo um pouco. 
+  
+[![](rayka.png)]() 
+      Essa é a minha cachorrinha Rayka Gabriely, que foi morar com Deus a 2 anos.
 
-# Header 1
-## Header 2
-### Header 3
+[![](inst.png)](https://www.instagram.com/thaynaluana2/)[![](fb.png)](https://www.facebook.com/thayna.luana.3)
 
-- Bulleted
-- List
+# Portfólio
+  Aqui, Bruna a senhora tem que colocar imagens tiradas dos seus jogos... a senhora joga eles e tira um print da tela
 
-1. Numbered
-2. List
+## Games
+  Aqui a senhora vai colocar os jogos que a senhora ja fez e que os prints tirados acima mostram...
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Time IF](https://ortegagamer.github.io/home)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Texto que vai aparecer](link)
 
-### Jekyll Themes
+## Artes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/victhay/victhay.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Snap](https://i.pinimg.com/originals/83/13/af/8313afd5cfeb799e37cb5c5c7e58c516.png)
 
-### Support or Contact
+![Sorvete](https://i.pinimg.com/736x/c6/cc/34/c6cc3499b42a7019598df83478cf3822.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projetos
+
+* Proj Tower Defense
+* Proj TPM
+* Proj jogos
+
+* * *
+
+** negrito  **
+_ itálico  _
+~~ riscado  ~~
+3* separados por espaço - linha horizontal  
+#s uma ou mais hashtsges criam capítulos ou subcapítulos
+*s asterico cria lista não ordenada
+nºs número seguido de pontuação cria lista ordenada
+
+* * *
