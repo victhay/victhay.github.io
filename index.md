@@ -2,11 +2,6 @@
 layout: default
 ---
 
-Criando **minha**, _página_, ~~principal~~.
-
-
-
-
 [![](thay.jpg)]() 
 # Quem sou eu 
   Meu nome é Thayna Luana, estou cursando Programação de jogos digitais, no IFRN - Ceára-Mirim, moro em Natal-RN , tenho 17 anos.
@@ -16,7 +11,7 @@ Criando **minha**, _página_, ~~principal~~.
 [![](rayka.jpg)]() 
       Essa é a minha cachorrinha Rayka Gabriely, que foi morar com Deus a 2 anos. E ao seu lado Hanna Gabriela.
 
-[![](brunarafaella.github.io/in.png)](https://www.instagram.com/thaynaluana2/)[![](fb.ico)](https://www.facebook.com/thayna.luana.3)
+[![](inst.png)](https://www.instagram.com/thaynaluana2/)[![](face.png)](https://www.facebook.com/thayna.luana.3)
 
 # Portfólio
   Aqui, Bruna a senhora tem que colocar imagens tiradas dos seus jogos... a senhora joga eles e tira um print da tela
