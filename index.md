@@ -17,7 +17,7 @@ layout: default
 
 [![](rayka.png)]() 
           
-          Essa é a minha cachorrinha Rayka Gabriely, que foi morar com Deus a 2 anos. E ao seu lado Hanna Gabriela.
+Essa é a minha cachorrinha Rayka Gabriely, que foi morar com Deus a 2 anos. E ao seu lado Hanna Gabriela.
 
 # Redes Sociais: 
 [![](inst.png)](https://www.instagram.com/thaynaluana2/)[![](face.png)](https://www.facebook.com/thayna.luana.3)
