@@ -62,6 +62,17 @@ Foi também cordenador do curso de Programação de Jogos Digitais.
 
 [![](motores.png)]() 
 
+# Curiosidades
+
+* Namoro 
+* Não sei ainda o que eu quero fazer na faculdade ainda
+* Sou filha única
+* Não sou boa em programação
+* Amo fazer as partes gráficas dos jogos
+* Participei da parte da divulgação do 1° musical do Ifrn-Céara-Mirim Chamado de Tîe.
+Acompanhe:
+[![](tie.png)](https://www.facebook.com/CiaMusicalTie/)
+
 
 
 * * *
