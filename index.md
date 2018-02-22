@@ -54,9 +54,15 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
 
 # Cordenador da Disciplina: 
 
+Professor Marcelo barros : [![](marcelo.png)](https://marcelomesmo.github.io/)
+Acompanha a turma do curso Programação de Jogos Digitais desde do primeiro ano de curso
+quando ofertou no curriculo dos alunos Interfaces, no Segundo ano ensinou P.O.O e no
+terceiro ano oferta Motores e Oficinas.
+Foi também cordenador do curso de Programação de Jogos Digitais.
+
 [![](motores.png)]() 
 
-Professor Marcelo barros : [![](marcelo.png)](https://marcelomesmo.github.io/)
+
 
 * * *
 
