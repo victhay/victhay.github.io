@@ -17,7 +17,7 @@ layout: default
 
 [![](rayka.png)]() 
           
-Essa que está no porta retrato é Rayka Gabriely, minha cachorrinha que faleceus a 2 anos,
+Essa que está no porta retrato é Rayka Gabriely, minha cachorrinha que faleceu a 2 anos,
 ao seu lado é Hanna Gabriela, minha cachorra atual que tem 2 anos.
 Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior companheira
 
