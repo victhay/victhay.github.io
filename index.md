@@ -71,7 +71,7 @@ Foi também cordenador do curso de Programação de Jogos Digitais.
 * Amo fazer as partes gráficas dos jogos
 * Participei da parte da divulgação do 1° musical do Ifrn-Céara-Mirim Chamado de Tîe.
 Acompanhe:
-[![](tiee.png)](https://www.facebook.com/CiaMusicalTie/)
+ >>>>>>>>>    [![](tiee.png)](https://www.facebook.com/CiaMusicalTie/)
 
 
 
