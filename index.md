@@ -29,29 +29,37 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
   
 ## Games
   
- # 1° Jogo
- 
- ## SnakeWoman
+     
+     
+# 1° Jogo
+   
+## SnakeWoman
+
+   
 
 [![](1.png)](https://lucasrevoredo.github.io/SnakeWoman/)
    
    Primeiro Jogo que fiz na máteria de Oficinas. Foi dado como tema para se fazer o jogo cultura, por estudar em Ceára-Mirim
    eu e minha dupla Lucas Revôredo , resolvemos falar um pouco sobre a lenda de Céara-Mirim, e logo de cara encontramos a lenda da 
    "Mulher que virou Sepernte" e então resolvemos fazer um jogo que retrata uma lenda. Click na foto e acesse o jogo.
-  
-  
-  # 2° Jogo   
-  
- ## Piratas   
+     
+     
+# 2° Jogo
+   
+## Piratas
+
+    
    [![](pira.png)](https://brunarafaella.github.io/pirata/)
    
   O segundo jogo também ofertado na disciplina de Oficinas, foi feito por Mim e Bruna Noronha, na qual foi ofertado o tema mensagem
   e então fizemos um jogo de um pirata na qual tinha que encontrar uns mapas para desvendar os misterios da carta para pode entender a mensagem que era deixada. Aperte na imagem e veja o jogo.
     
+     
+     
 # 3° Jogo
-    
-  ## Carol Com C
    
+## Carol Com C
+
    [![](4.png)](https://joaothiago06github.io/CarolcomC)
      
      Nesse jogo o tema foi livre, e foi em trio e eu fiz com João Thiago e Bruna Noronha, nesse jogo procuramos fazer um jogo educacional. Click na imagem e acesse o jogo.
