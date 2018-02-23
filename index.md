@@ -107,6 +107,11 @@ artes que elaborei ou que personalizei
 [![](jjj.jpeg)]()   jogo de 5 segundos feito com Julia Elizabeth para a disciplina de Jogos Digitais
 
 
+# Alguns App que utilizei para a construção dos Jogos.
+
+[![](fn.png)]()  [![](lk.png)]()   [![](op.png)]() 
+
+
 
 ## Projetos que participei 
 
