@@ -72,7 +72,7 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
    [![](b.png)](https://brunarafaella.github.io/torre/)
    
    Esse foi um jogo de Tower Defense que eu fiz com Bruna Noronha afim de como projeto a saúde bucal. click na imagem e baixa o projeto
-     [Projeto tower](https://victhay.github.io/certo.docx/)
+ [Projeto tower](certo.docx)
 
 
 
