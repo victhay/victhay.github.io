@@ -26,22 +26,70 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
 [![](inst.png)](https://www.instagram.com/thaynaluana2/)[![](face.png)](https://www.facebook.com/thayna.luana.3)
 
 # Portfólio
-   # 1° Jogo 
- [![](1.png)]() 
+  
+  ## Games
+   
+   # 1° Jogo 
+[![](1.png)](https://lucasrevoredo.github.io/SnakeWoman/)
+   
+   Primeiro Jogo que fiz na máteria de Oficinas. Foi dado como tema para se fazer o jogo cultura, por estudar em Ceára-Mirim
+   eu e minha dupla Lucas Revôredo , resolvemos falar um pouco sobre a lenda de Céara-Mirim, e logo de cara encontramos a lenda da 
+   "Mulher que virou Sepernte" e então resolvemos fazer um jogo que retrata uma lenda. Click na foto e acesse o jogo.
+    
+ # 2° Jogo 
+    
+   [![](pira.png)](https://brunarafaella.github.io/pirata/)
    
+  O segundo jogo também ofertado na disciplina de Oficinas, foi feito por Mim e Bruna Noronha, na qual foi ofertado o tema mensagem
+  e então fizemos um jogo de um pirata na qual tinha que encontrar uns mapas para desvendar os misterios da carta para pode entender a mensagem que era deixada. Aperte na imagem e veja o jogo.
+    
    # 3° Jogo
    
-   [![](2.jpg)]()  
+   [![](4.png)](https://joaothiago06github.io/CarolcomC)
+     
+     Nesse jogo o tema foi livre, e foi em trio e eu fiz com João Thiago e Bruna Noronha, nesse jogo procuramos fazer um jogo educacional. Click na imagem e acesse o jogo.
+     
+ # 4°  jogo
+ 
+   [![](b.png)](https://brunarafaella.github.io/torre/)
+   
+   Esse foi um jogo de Tower Defense que eu fiz com Bruna Noronha afim de como projeto a saúde bucal. click na imagem e baixa o projeto
+     [Projeto torre](https://ortegagamer.github.io/home)
 
-## Games
-  Aqui a senhora vai colocar os jogos que a senhora ja fez e que os prints tirados acima mostram...
-
-
-[Time IF](https://ortegagamer.github.io/home)
 
 [Texto que vai aparecer](link)
 
 ## Artes
+
+artes que elaborei ou que personalizei
+
+
+[![](aas.png)]() Robô que fiz para um trabalho no animate
+
+[![](g.png)]() menu que fiz para o jogo dos piratas
+
+[![](3.png)]()  logo que fiz pra um jogo educativo
+
+[![](4.png)]() jogo educativo de carol com c
+
+[![](fdf.png)]() fase personalizada do jogo educativo carol com c
+
+[![](k.png)]() tela do jogo que iria aparecer
+
+[![](b.png)]() tela do tower defense
+
+[![](d.png)]() tela de menu do  tower defense
+
+## Jogos não publicados
+
+[![](durval.png)]() jogo feito para a disciplina de animação, cordenado por Durval Pacheco
+
+[![](cc.png)]()   jogo de 5 segundos feito com Julia Elizabeth para a disciplina de Jogos Digitais
+
+[![](jjj.png)]()   jogo de 5 segundos feito com Julia Elizabeth para a disciplina de Jogos Digitais
+
+
+
 
 ![Snap](https://i.pinimg.com/originals/83/13/af/8313afd5cfeb799e37cb5c5c7e58c516.png)
 
