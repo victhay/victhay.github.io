@@ -28,8 +28,8 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
 # Portfólio
   
   ## Games
-   
    # 1° Jogo 
+   
 [![](1.png)](https://lucasrevoredo.github.io/SnakeWoman/)
    
    Primeiro Jogo que fiz na máteria de Oficinas. Foi dado como tema para se fazer o jogo cultura, por estudar em Ceára-Mirim
@@ -54,7 +54,7 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
    [![](b.png)](https://brunarafaella.github.io/torre/)
    
    Esse foi um jogo de Tower Defense que eu fiz com Bruna Noronha afim de como projeto a saúde bucal. click na imagem e baixa o projeto
-     [Projeto toWer] (https://victhay.github.io/certo/)
+     [Projeto tower] (https://victhay.github.io/certo.docx/)
 
 
 [Texto que vai aparecer](link)
