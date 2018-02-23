@@ -84,9 +84,9 @@ artes que elaborei ou que personalizei
 
 [![](durval.png)]() jogo feito para a disciplina de animação, cordenado por Durval Pacheco
 
-[![](cc.png)]()   jogo de 5 segundos feito com Julia Elizabeth para a disciplina de Jogos Digitais
+[![](cc.jpeg)]()   jogo de 5 segundos feito com Julia Elizabeth para a disciplina de Jogos Digitais
 
-[![](jjj.png)]()   jogo de 5 segundos feito com Julia Elizabeth para a disciplina de Jogos Digitais
+[![](jjj.jpeg)]()   jogo de 5 segundos feito com Julia Elizabeth para a disciplina de Jogos Digitais
 
 
 
