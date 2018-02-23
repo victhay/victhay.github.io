@@ -54,7 +54,7 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
    [![](b.png)](https://brunarafaella.github.io/torre/)
    
    Esse foi um jogo de Tower Defense que eu fiz com Bruna Noronha afim de como projeto a saúde bucal. click na imagem e baixa o projeto
-     [Projeto torre](https://ortegagamer.github.io/home)
+     [Projeto toWer] (https://victhay.github.io/certo/)
 
 
 [Texto que vai aparecer](link)
@@ -64,11 +64,11 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
 artes que elaborei ou que personalizei
 
 
-[![](aas.png)]() Robô que fiz para um trabalho no animate
+ [![](g.png)]()  Robô que fiz para um trabalho no animate
 
 [![](g.png)]() menu que fiz para o jogo dos piratas
 
-[![](3.png)]()  logo que fiz pra um jogo educativo
+[![](3.png)]()  Jogo que fiz pra um jogo educativo
 
 [![](4.png)]() jogo educativo de carol com c
 
@@ -90,15 +90,12 @@ artes que elaborei ou que personalizei
 
 
 
+## Projetos que participei 
 
-![Snap](https://i.pinimg.com/originals/83/13/af/8313afd5cfeb799e37cb5c5c7e58c516.png)
-
-![Sorvete](https://i.pinimg.com/736x/c6/cc/34/c6cc3499b42a7019598df83478cf3822.jpg)
-
-## Projetos
-
-* Proj Tower Defense
+* Proj Tower Defense 
 * Proj jogos
+* Proj Biologia
+
 
 # Cordenador da Disciplina: 
 
