@@ -29,33 +29,42 @@ Rayka morreu aos 9 anos grávida da sua 3 gestação. Ela era minha maior compan
   
 ## Games
   
+ # 1° Jogo
  
- # 1°  jogo 
+ ## SnakeWoman
+
 [![](1.png)](https://lucasrevoredo.github.io/SnakeWoman/)
    
    Primeiro Jogo que fiz na máteria de Oficinas. Foi dado como tema para se fazer o jogo cultura, por estudar em Ceára-Mirim
    eu e minha dupla Lucas Revôredo , resolvemos falar um pouco sobre a lenda de Céara-Mirim, e logo de cara encontramos a lenda da 
    "Mulher que virou Sepernte" e então resolvemos fazer um jogo que retrata uma lenda. Click na foto e acesse o jogo.
-    
- # 2° Jogo 
-    
+  
+  
+  # 2° Jogo   
+  
+ ## Piratas   
    [![](pira.png)](https://brunarafaella.github.io/pirata/)
    
   O segundo jogo também ofertado na disciplina de Oficinas, foi feito por Mim e Bruna Noronha, na qual foi ofertado o tema mensagem
   e então fizemos um jogo de um pirata na qual tinha que encontrar uns mapas para desvendar os misterios da carta para pode entender a mensagem que era deixada. Aperte na imagem e veja o jogo.
     
-   # 3° Jogo
+# 3° Jogo
+    
+  ## Carol Com C
    
    [![](4.png)](https://joaothiago06github.io/CarolcomC)
      
      Nesse jogo o tema foi livre, e foi em trio e eu fiz com João Thiago e Bruna Noronha, nesse jogo procuramos fazer um jogo educacional. Click na imagem e acesse o jogo.
      
- # 4°  jogo
- 
+     
+# 4° Jogo
+   
+## D-Combate
+
    [![](b.png)](https://brunarafaella.github.io/torre/)
    
    Esse foi um jogo de Tower Defense que eu fiz com Bruna Noronha afim de como projeto a saúde bucal. click na imagem e baixa o projeto
-     [Projeto tower] (https://victhay.github.io/certo.docx/)
+     [Projeto tower](https://victhay.github.io/certo.docx/)
 
 
 
@@ -117,18 +126,11 @@ Foi também cordenador do curso de Programação de Jogos Digitais.
 * Amo fazer as partes gráficas dos jogos
 * Participei da parte da divulgação do 1° musical do Ifrn-Céara-Mirim Chamado de Tîe.
 Acompanhe:
- >>>>>>>>>    [![](tiee.png)](https://www.facebook.com/CiaMusicalTie/)
+ [![](tiee.png)](https://www.facebook.com/CiaMusicalTie/)
 
 
 
 * * *
 
-** negrito  **
-_ itálico  _
-~~ riscado  ~~
-3* separados por espaço - linha horizontal  
-#s uma ou mais hashtsges criam capítulos ou subcapítulos
-*s asterico cria lista não ordenada
-nºs número seguido de pontuação cria lista ordenada
 
 * * *
